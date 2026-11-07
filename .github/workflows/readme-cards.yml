@@ -18,7 +18,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=touhidurabir&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&show=reviews,prs_merged&theme=github_dark&custom_title=github stats
+          options: username=touhidurabir&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&show=prs_merged&theme=github_dark&custom_title=github stats
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=touhidurabir&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&show=reviews,prs_merged&theme=default&custom_title=github stats
+          options: username=touhidurabir&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&show=prs_merged&theme=default&custom_title=github stats
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true

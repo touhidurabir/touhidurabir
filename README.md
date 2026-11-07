@@ -19,8 +19,8 @@ open to senior, lead and full-stack roles · remote · full-time or contract
 - [Top 10 all-time contributor](https://github.com/pkp/ojs/graphs/contributors?all=1) to
   [**Open Journal Systems**](https://github.com/pkp/ojs), the publishing platform behind
   58,000+ journals in 156 countries. Four years on the core team at PKP, mostly bringing
-  Laravel's internals into an application that isn't a Laravel app. 1,000+ merged commits,
-  300+ pull requests, 150+ reviews.
+  Laravel's internals into an application that isn't a Laravel app. Across PKP's repos:
+  1,300+ merged commits, 1,000+ pull requests, 150+ reviews.
 - Maintain [**15 Laravel packages**](https://packagist.org/packages/touhidurabir/) with
   195k+ combined installs. `laravel-model-sanitize` was
   [featured on Laravel News](https://laravel-news.com/laravel-model-sanitize).
