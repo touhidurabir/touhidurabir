@@ -53,7 +53,7 @@ open to senior, lead and full-stack roles · remote · full-time or contract
 ### elsewhere
 
 [touhidurabir.github.io](https://touhidurabir.github.io/) ·
-[résumé (pdf)](https://touhidurabir.github.io/Touhidur_Rahman_Resume.pdf) ·
+[résumé (pdf)](https://touhidurabir.github.io/files/Touhidur_Rahman_Resume.pdf) ·
 [packagist](https://packagist.org/packages/touhidurabir/) ·
 [linkedin](https://www.linkedin.com/in/touhidur) ·
 abircse06@gmail.com
