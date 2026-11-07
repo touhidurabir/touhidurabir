@@ -1,8 +1,6 @@
 name: Update README cards
 
 on:
-  push:
-    branches: [update-profile-readme]
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
