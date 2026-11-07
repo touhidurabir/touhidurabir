@@ -32,24 +32,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Languages (dark)
-        uses: readme-tools/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=touhidurabir&layout=compact&langs_count=8&hide_border=true&theme=github_dark&custom_title=most used languages
-          path: profile/langs-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Languages (light)
-        uses: readme-tools/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=touhidurabir&layout=compact&langs_count=8&hide_border=true&theme=default&custom_title=most used languages
-          path: profile/langs-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
       - name: Commit cards
         run: |
           git config user.name "github-actions"
