@@ -27,8 +27,8 @@ open to senior, lead and full-stack roles · remote · full-time or contract
 - Lead architect on [**Dentall Manager**](https://dentallmanager.nl/), a multi-tenant
   Laravel and Vue SaaS on database-per-tenant isolation. 100% uptime since launch.
 - Leading engineering teams since 2017, up to 12 people, across 80+ client projects.
-- Not only PHP. React and TypeScript front ends, Node.js and Go services, Ruby on Rails apps
-  like [lawmaker.io](https://lawmaker.io/), shipped on AWS with Docker.
+- Not only PHP. React and TypeScript front ends, Node.js and Go services, Ruby on Rails apps,
+  shipped on AWS with Docker.
 - Claude and GitHub Copilot in the loop every day, for writing code and for reviewing it.
   I still read every diff.
 - Certified Laravel Developer.
